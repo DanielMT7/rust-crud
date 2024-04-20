@@ -1,0 +1,4 @@
+geladeira,3999.99,Eletrônico
+torradeira,299.99,Eletrônico
+lasanha,7.99,Alimento
+arroz,4.99,Alimento
